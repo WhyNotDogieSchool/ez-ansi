@@ -1,0 +1,23 @@
+{
+  "name": "ez-ansi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ./tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhyNotDogieSchool/ez-ansi.git"
+  },
+  "keywords": [
+    "ansi",
+    "terminal"
+  ],
+  "author": "WhyNotDogie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhyNotDogieSchool/ez-ansi/issues"
+  },
+  "homepage": "https://github.com/WhyNotDogieSchool/ez-ansi#readme"
+}
